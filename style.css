@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 100%;
+}
+
+/* By Class */
+.mainHeading{
+    font-weight: 800;
+}
+/* or */
+h1.mainHeading{
+    color: #827654;
+}
